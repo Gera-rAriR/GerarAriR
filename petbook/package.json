@@ -7,3 +7,17 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+"author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.18.1",
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "mongodb": "^3.4.1",
+    "mongoose": "^5.8.6",
+    "multiparty": "^4.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
